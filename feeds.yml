@@ -1,0 +1,94 @@
+
+global: Some setting
+save folder: /home/derrick/code/ruby/Catcherrb
+
+feeds:
+  feed01:
+    title:  Security Now
+    rss:    http://feeds.twit.tv/sn.xml
+    many:   3
+    remark: some dumb remarks
+
+  feed02:
+    title:  Tech Talk Today  
+    rss:    http://techtalk.today/rss
+    many:   2
+    remark: good one
+
+  feed03:
+    title:  Linux Action News
+    rss:    http://linuxactionnews.com/rss
+    many:   4
+    remark: so so
+
+  feed04:
+    title:  No Agenda Show
+    rss:    http://feed.nashownotes.com/rss.xml 
+    many:   4
+    remark: so so
+
+  feed05:
+    title:  WBUR - On Point
+    rss:    http://feeds.wbur.org/onpoint/podcast
+    many:   4
+    remark: so so
+
+  feed06:
+    title:  NPR Planet Money
+    rss:    http://www.npr.org/rss/podcast.php?id=510289
+    many:   4
+    remark: so so
+
+  feed09:
+    title:  Meet the Press 
+    rss:    http://podcastsfeeds.nbcnews.com/audio/podcast/MSNBC-MTP.xml
+    many:   4
+    remark: so so
+    
+  feed10:
+    title:  Late Night Linux
+    rss:    http://latenightlinux.com/feed/mp3   
+    many:   4
+    remark: so so
+
+  feed11:
+    title:  TMS            
+    rss:    http://feeds.frogpants.com/morningstream_feed.xml
+    many:   4
+    remark: so so
+
+  feed13:
+    title:  TWIT
+    rss:    http://feeds.twit.tv/twit.xml        
+    many:   4
+    remark: so so
+  
+  feed14:
+    title:  Coder Radio
+    rss:    http://coder.show/rss       
+    many:   4
+    remark: so so
+
+  feed15:
+    title:  This week in Google
+    rss:    http://feeds.twit.tv/twig.xml
+    many:   4
+    remark: so so
+
+  feed16:
+    title:  DH Unplugged
+    rss:    https://www.dhunplugged.com/feed/podcast/
+    many:   2
+    remark: finance
+
+  feed17:
+    title:  Linux Unplugged
+    rss:    http://linuxunplugged.com/rss
+    many:   2
+    remark: tech
+
+  feed18:
+    title:  Unfilter
+    rss:    http://unfilter.show/rss
+    many:   2
+    remark: politics
